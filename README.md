@@ -1,14 +1,14 @@
 # ROS2 TurtleSim Square Controller  
 *By Ashalen Govender*  
 
-## Demo  
-![TurtleSim Square](turtle_sim_demo.png)  
-
 ## How It Works  
 Controls the turtle using ROS2 Twist messages:  
 - Moves forward for set duration  
 - Turns 90 degrees  
-- Repeats 4 times  
+- Repeats 4 times
+
+## Result 
+![TurtleSim Square](turtle_sim_demo.png)  
 
 ## Debugging  
 **Problem**: Wasn't making perfect squares  
