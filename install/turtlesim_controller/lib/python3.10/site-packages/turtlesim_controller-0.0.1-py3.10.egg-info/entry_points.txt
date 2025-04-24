@@ -1,0 +1,3 @@
+[console_scripts]
+draw_square = turtlesim_controller.draw_square:main
+

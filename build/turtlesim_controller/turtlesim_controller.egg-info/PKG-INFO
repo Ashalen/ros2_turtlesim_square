@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: turtlesim-controller
+Version: 0.0.1
+Summary: A ROS 2 package to control turtlesim and draw a square pattern.
+Home-page: UNKNOWN
+Maintainer: ashalen
+Maintainer-email: ashalen.govender@gmail.com
+License: Apache License 2.0
+Platform: UNKNOWN
+
+UNKNOWN
+

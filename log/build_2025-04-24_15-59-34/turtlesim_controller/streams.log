@@ -1,0 +1,37 @@
+[0.583s] Invoking command in '/home/ashalen/ros2_projects/project2_turtlesim/src/turtlesim_controller': PYTHONPATH=/home/ashalen/ros2_projects/project2_turtlesim/build/turtlesim_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ashalen/ros2_projects/project2_turtlesim/install/turtlesim_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_controller build --build-base /home/ashalen/ros2_projects/project2_turtlesim/build/turtlesim_controller/build install --record /home/ashalen/ros2_projects/project2_turtlesim/build/turtlesim_controller/install.log --single-version-externally-managed install_data
+[0.819s] running egg_info
+[0.820s] creating ../../build/turtlesim_controller/turtlesim_controller.egg-info
+[0.820s] writing ../../build/turtlesim_controller/turtlesim_controller.egg-info/PKG-INFO
+[0.820s] writing dependency_links to ../../build/turtlesim_controller/turtlesim_controller.egg-info/dependency_links.txt
+[0.820s] writing entry points to ../../build/turtlesim_controller/turtlesim_controller.egg-info/entry_points.txt
+[0.820s] writing requirements to ../../build/turtlesim_controller/turtlesim_controller.egg-info/requires.txt
+[0.820s] writing top-level names to ../../build/turtlesim_controller/turtlesim_controller.egg-info/top_level.txt
+[0.821s] writing manifest file '../../build/turtlesim_controller/turtlesim_controller.egg-info/SOURCES.txt'
+[0.822s] reading manifest file '../../build/turtlesim_controller/turtlesim_controller.egg-info/SOURCES.txt'
+[0.823s] writing manifest file '../../build/turtlesim_controller/turtlesim_controller.egg-info/SOURCES.txt'
+[0.823s] running build
+[0.823s] running build_py
+[0.823s] creating /home/ashalen/ros2_projects/project2_turtlesim/build/turtlesim_controller/build
+[0.823s] creating /home/ashalen/ros2_projects/project2_turtlesim/build/turtlesim_controller/build/lib
+[0.823s] creating /home/ashalen/ros2_projects/project2_turtlesim/build/turtlesim_controller/build/lib/turtlesim_controller
+[0.823s] copying turtlesim_controller/draw_square.py -> /home/ashalen/ros2_projects/project2_turtlesim/build/turtlesim_controller/build/lib/turtlesim_controller
+[0.823s] copying turtlesim_controller/__init__.py -> /home/ashalen/ros2_projects/project2_turtlesim/build/turtlesim_controller/build/lib/turtlesim_controller
+[0.823s] running install
+[0.824s] running install_lib
+[0.824s] creating /home/ashalen/ros2_projects/project2_turtlesim/install/turtlesim_controller/lib/python3.10/site-packages/turtlesim_controller
+[0.824s] copying /home/ashalen/ros2_projects/project2_turtlesim/build/turtlesim_controller/build/lib/turtlesim_controller/draw_square.py -> /home/ashalen/ros2_projects/project2_turtlesim/install/turtlesim_controller/lib/python3.10/site-packages/turtlesim_controller
+[0.824s] copying /home/ashalen/ros2_projects/project2_turtlesim/build/turtlesim_controller/build/lib/turtlesim_controller/__init__.py -> /home/ashalen/ros2_projects/project2_turtlesim/install/turtlesim_controller/lib/python3.10/site-packages/turtlesim_controller
+[0.825s] byte-compiling /home/ashalen/ros2_projects/project2_turtlesim/install/turtlesim_controller/lib/python3.10/site-packages/turtlesim_controller/draw_square.py to draw_square.cpython-310.pyc
+[0.826s] byte-compiling /home/ashalen/ros2_projects/project2_turtlesim/install/turtlesim_controller/lib/python3.10/site-packages/turtlesim_controller/__init__.py to __init__.cpython-310.pyc
+[0.826s] running install_data
+[0.826s] creating /home/ashalen/ros2_projects/project2_turtlesim/install/turtlesim_controller/share/ament_index
+[0.826s] creating /home/ashalen/ros2_projects/project2_turtlesim/install/turtlesim_controller/share/ament_index/resource_index
+[0.826s] creating /home/ashalen/ros2_projects/project2_turtlesim/install/turtlesim_controller/share/ament_index/resource_index/packages
+[0.826s] copying resource/turtlesim_controller -> /home/ashalen/ros2_projects/project2_turtlesim/install/turtlesim_controller/share/ament_index/resource_index/packages
+[0.826s] copying package.xml -> /home/ashalen/ros2_projects/project2_turtlesim/install/turtlesim_controller/share/turtlesim_controller
+[0.826s] running install_egg_info
+[0.828s] Copying ../../build/turtlesim_controller/turtlesim_controller.egg-info to /home/ashalen/ros2_projects/project2_turtlesim/install/turtlesim_controller/lib/python3.10/site-packages/turtlesim_controller-0.0.1-py3.10.egg-info
+[0.829s] running install_scripts
+[0.848s] Installing draw_square script to /home/ashalen/ros2_projects/project2_turtlesim/install/turtlesim_controller/lib/turtlesim_controller
+[0.848s] writing list of installed files to '/home/ashalen/ros2_projects/project2_turtlesim/build/turtlesim_controller/install.log'
+[0.875s] Invoked command in '/home/ashalen/ros2_projects/project2_turtlesim/src/turtlesim_controller' returned '0': PYTHONPATH=/home/ashalen/ros2_projects/project2_turtlesim/build/turtlesim_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ashalen/ros2_projects/project2_turtlesim/install/turtlesim_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_controller build --build-base /home/ashalen/ros2_projects/project2_turtlesim/build/turtlesim_controller/build install --record /home/ashalen/ros2_projects/project2_turtlesim/build/turtlesim_controller/install.log --single-version-externally-managed install_data
