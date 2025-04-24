@@ -16,7 +16,7 @@ setup(
     maintainer='ashalen',
     maintainer_email='ashalen.govender@gmail.com',
     description='A ROS 2 package to control turtlesim and draw a square pattern.',
-    license='Apache License 2.0',  # Specify the license
+    license='Apache License 2.0', 
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
