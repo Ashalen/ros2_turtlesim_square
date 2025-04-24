@@ -2,7 +2,7 @@
 *By Ashalen Govender*  
 
 ## Demo  
-![TurtleSim Square](docs/turtlesim_square.png)  
+![TurtleSim Square](turtle_sim_demo.png)  
 
 ## How It Works  
 Controls the turtle using ROS2 Twist messages:  
